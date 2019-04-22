@@ -42,6 +42,7 @@ Route::group(['prefix'=>cp],function(){
         Route::get('pop', function () {
             return view('cpanel.fm.popup');
         });
+
         Route::get('popup', function () {
             return view('cpanel.fm.pop');
         });
@@ -52,6 +53,9 @@ Route::group(['prefix'=>cp],function(){
 
 Route::get('/', function () {
     return view('welcome');
+});
+Route::get('/asa', function () {
+    return view('asa');
 });
 
 Auth::routes();
