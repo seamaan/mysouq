@@ -53,6 +53,9 @@ Route::group(['prefix'=>cp],function(){
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/test', function () {
+    return view('test');
+});
 
 Auth::routes();
 
