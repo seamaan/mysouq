@@ -53,7 +53,7 @@ Route::group(['prefix'=>cp],function(){
 
 Route::get('/', function () {
     return view('welcome');
-});
+});//test
 
 Auth::routes();
 
