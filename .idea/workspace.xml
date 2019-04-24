@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ef8b9bb-f23d-468d-865a-45d4015b48e8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8ef8b9bb-f23d-468d-865a-45d4015b48e8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +160,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="SearchEverywhereHistoryKey" value="plugin&#9;null&#9;null&#10;validate&#9;FILE&#9;file://C:/AppServ/www/wsouq/vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php&#10;val&#9;null&#9;null&#10;web&#9;FILE&#9;file://C:/AppServ/www/wsouq/routes/web.php&#10;fun&#9;FILE&#9;file://C:/AppServ/www/wsouq/app/Helpers/functions.php&#10;we&#9;FILE&#9;file://C:/AppServ/www/wsouq/routes/web.php&#10;wev&#9;null&#9;null&#10;route&#9;null&#9;null&#10;app&#9;FILE&#9;file://C:/AppServ/www/wsouq/config/app.php" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -283,7 +281,7 @@
       <workItem from="1555839417356" duration="1610000" />
       <workItem from="1555912472988" duration="2685000" />
       <workItem from="1555916568345" duration="54000" />
-      <workItem from="1555917188924" duration="1973000" />
+      <workItem from="1555917188924" duration="3590000" />
     </task>
     <task id="LOCAL-00001" summary="تعديل بسيطة على الروت">
       <created>1555921092689</created>
@@ -310,7 +308,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26250000" />
+    <option name="totallyTimeSpent" value="27867000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -322,8 +320,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <layout>
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2322239" sideWeight="0.48091602" order="0" side_tool="false" content_ui="combo" />
